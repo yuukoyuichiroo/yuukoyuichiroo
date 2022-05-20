@@ -2,7 +2,7 @@
     <h1 align="center">Welcome To My Profile</h1>
     <p>Hello my name is Amy Joy Hutapea</p>
     <p>I like Coding and Gaming is my hobby</p>
-    <hr>
+
 </div>
 <div id="header" align="center">
     <img src="https://live.staticflickr.com/65535/52085111207_f42acd83c1_m.jpg" width="500" />
