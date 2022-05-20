@@ -1,8 +1,5 @@
 <div>
     <h1 align="center">Welcome To My Profile</h1>
-    <p>Hello my name is Amy Joy Hutapea</p>
-    <p>I like Coding and Gaming is my hobby</p>
-
 </div>
 <div id="header" align="center">
     <img src="https://live.staticflickr.com/65535/52085111207_f42acd83c1_m.jpg" width="500" />
@@ -12,17 +9,11 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" />
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
 </div>
-<h1 align="center">MY PC SPECS</h1>
-<div id="specs" align="center">
-    <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%205%201600-red" alt="CPU" />
-    <img src="https://img.shields.io/badge/Graphics%20Card-RTX%202070-green" alt="Graphics Card" />
-    <img src="https://img.shields.io/badge/RAM-16GB-blue" alt="RAM" />
-</div>
+
 <div align="center">
     <h1>About Me</h1>
     <img src="https://media0.giphy.com/media/iJLAju9iMjQfC/giphy.gif?cid=ecf05e473u3mo3bsndtl79lrk52kba8rk1vupk5e3cofprn6&rid=giphy.gif&ct=g" width="500" />
 </div>
-
 
 ---
 ### :woman_technologist: About Me :
@@ -32,6 +23,13 @@ I am a Student UNAI Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on stackoverflow and read tech articles.
+
+<h1 align="center">MY PC SPECS</h1>
+<div id="specs" align="center">
+    <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%205%201600-red" alt="CPU" />
+    <img src="https://img.shields.io/badge/Graphics%20Card-RTX%202070-green" alt="Graphics Card" />
+    <img src="https://img.shields.io/badge/RAM-16GB-blue" alt="RAM" />
+</div>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -46,3 +44,9 @@ I am a Student UNAI Developer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+### :chart: My stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuukoyuichiroo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuukoyuichiroo&layout=compact&theme=vision-friendly-dark)](https://github.com/yuukoyuichiroo/github-readme-stats)
