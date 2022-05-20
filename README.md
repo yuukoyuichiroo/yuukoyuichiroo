@@ -47,6 +47,6 @@ I am a Student UNAI Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ---
 ### :chart: My stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuukoyuichiroo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuukoyuichiroo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AmyJoy's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
