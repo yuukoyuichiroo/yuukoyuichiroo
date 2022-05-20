@@ -1,19 +1,21 @@
+<!DOCTYPE html>
 <html>
 <head>
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-<div>This is a div.</div>
 
+<h1 align="center">Welcome To My Profile</h1>
+<p>Hello nama saya adalah Amy Joy Hutapea</p>
+<div>Hello my name is Amy Joy Hutapea</div>
+<hr>
 </body>
-</html>### Hi there 👋
+</html>
 <div id="header" align="center">
-  <img src="https://live.staticflickr.com/65535/52086632025_5f6e7a8147_b.jpg" width="100"/>
+  <img src="https://live.staticflickr.com/65535/52085111207_f42acd83c1_m.jpg" width="500"/>
+</div>
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 </head>
 <body>
