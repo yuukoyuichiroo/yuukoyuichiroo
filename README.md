@@ -18,7 +18,7 @@
 ---
 ### :woman_technologist: About Me :
 I am a Student UNAI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- :telescope: I’m still a student until i graduated, i will change my reame.md again.
+- :telescope: I’m still a student until i graduated, i will change my ```readme.md``` again.
 
 - :seedling: Exploring Technical Content Writing.
 
